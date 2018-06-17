@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "test in my lap"
+git commit -m "start test"
 
 git push -u origin master
