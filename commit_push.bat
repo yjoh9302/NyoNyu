@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "start test"
+git commit -m "menu test"
 
 git push -u origin master
