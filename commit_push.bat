@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "menu test"
+git commit -m "footer  test"
 
 git push -u origin master
