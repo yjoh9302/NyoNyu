@@ -6,9 +6,6 @@
     <p>당신은 누구인가요?</p>
   </div>
   <div class="message-body">
-      <figure class="image is-64x64 ">
-        <img class="image" src="~assets/mypic.jpg" alt="" >
-      </figure>
       <li>이름 : 오연중 <br>영문 : OH Yeon Joong <br>한자 : 吳燕重</li>
       <li>나이 : 26살(만 25세)</li>
       <li>거주지 : 경기도 수원</li>
