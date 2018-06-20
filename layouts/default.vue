@@ -3,8 +3,7 @@
     <nav class="navbar">
       <div class="navbar-brand">
         <nuxt-link to="/" class="navbar-item">
-          <img class = "image" src="~assets/wi_6_18.png" alt="" >
-          
+          <img class = "image" src="~assets/gogo.png" alt="" >
         </nuxt-link>
       </div>
     </nav>

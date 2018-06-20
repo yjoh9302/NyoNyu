@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "first subpage making"
+git commit -m "menu remake"
 
 git push -u origin master

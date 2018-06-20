@@ -18,7 +18,9 @@
       </p>
       <ul class="menu-list">
         <ul>
-          <li> <nuxt-link to ="/carrer" class = "navbar-item">궁금하나요?</nuxt-link></li>
+          <li> <nuxt-link to ="/who" class = "navbar-item">당신은 누구인가요?</nuxt-link></li>
+          <li> <nuxt-link to ="/carrer" class = "navbar-item">학력</nuxt-link></li>
+          <li> <nuxt-link to ="/study" class = "navbar-item">배운 것</nuxt-link></li>
           <li> <nuxt-link to ="/stat" class = "navbar-item">나의 취미</nuxt-link></li>
         </ul>
       </ul>
