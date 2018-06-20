@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "footer  test"
+git commit -m "first subpage making"
 
 git push -u origin master

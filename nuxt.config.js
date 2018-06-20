@@ -10,7 +10,21 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'My cloud website #1 using Nuxt.js' }
     ],
     link: [
-      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css' }
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css' },
+      {
+        rel : "stylesheet",  href : "https://uicdn.toast.com/tui.chart/latest/tui-chart.min.css" 
+      }
+    ],
+    script: [{ src: 'https://use.fontawesome.com/releases/v5.0.7/js/all.js', defer: '' },
+    {
+      src : "https://uicdn.toast.com/tui.code-snippet/latest/tui-code-snippet.js"
+    },
+    {
+      src : "https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.js"
+    },
+    {
+      src: "https://uicdn.toast.com/tui.chart/latest/tui-chart.js"
+    }
     ]
   },
   /*
