@@ -3,8 +3,8 @@
     <div class="hero is-info is-bold">
       <div class="hero-body">
         
-          <h1 class="title is-1">Hello</h1>
-          <h1 class="title is-1">Please select menu</h1>
+          <h1 class="title is-1">환영 합니다!</h1>
+          <h1 class="title is-1">메뉴를 선택해 주세요</h1>
           
       </div>
     </div>
@@ -32,7 +32,7 @@
       <ul class="menu-list">
         <ul>
           <li> <nuxt-link to ="/division" class = "navbar-item">Tom Clancy's The Division</nuxt-link></li>
-          <li> <nuxt-link to ="/crusaders" class = "navbar-item">크루세이더 퀘스트</nuxt-link></li>
+          
         </ul>
       </ul>
     </aside>

@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "card, card-image test"
+git commit -m "final"
 
 git push -u origin master
