@@ -40,7 +40,7 @@
 </div>
         </div>
         <article class="message">
-            <div class="message-header">애견 산업 전망
+            <div class="message-header">나의 게임 달성도
 
             </div>
             <div class="message-body">
