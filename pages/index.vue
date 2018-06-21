@@ -26,6 +26,15 @@
           
         </ul>
       </ul>
+      <p class="menu-lable">
+        게임
+      </p>
+      <ul class="menu-list">
+        <ul>
+          <li> <nuxt-link to ="/division" class = "navbar-item">Tom Clancy's The Division</nuxt-link></li>
+          <li> <nuxt-link to ="/crusaders" class = "navbar-item">크루세이더 퀘스트</nuxt-link></li>
+        </ul>
+      </ul>
     </aside>
     </div>
     <div class="column">

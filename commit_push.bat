@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "sobpage 90%comp"
+git commit -m "card, card-image test"
 
 git push -u origin master
